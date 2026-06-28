@@ -1,1 +1,1 @@
-console.log('Sanwariya Construction Website Ready');
+console.log("Sanwariya Construction Website Ready");
